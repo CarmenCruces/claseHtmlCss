@@ -1,0 +1,16 @@
+.changeStyleHeader{
+    background-color: blue;
+    text-align: center;
+}
+.changeStyleMain{
+    background-color: rgb(185, 97, 185);
+}
+.changeStyleFooter{
+    background-color: #67960b;
+}
+.fotoGato{
+    width: 40%;
+}
+.boxGatoNegro{
+    text-align: center;
+}
